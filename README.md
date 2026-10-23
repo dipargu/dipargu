@@ -1,7 +1,7 @@
 ## Hello i am Dipargu
 - I’m currently studying Informatics <br>
 
-
+I want to become a computer engineer 
 
 <!--
 **dipargu/dipargu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
