@@ -1,6 +1,6 @@
 ## Hi there 👋
-## - I’m currently studying Informatics
-## -Fun fact: I love Re:Zero
+- I’m currently studying Informatics
+-Fun fact: I love Re:Zero
 
 
 <!--
