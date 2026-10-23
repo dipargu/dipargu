@@ -1,5 +1,5 @@
 ## Hi there 👋
-- I’m currently studying Informatics
+- I’m currently studying Informatics <br>
 -Fun fact: I love Re:Zero
 
 
