@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hello i am Dipargu
 - I’m currently studying Informatics <br>
-- Fun fact: I love Re:Zero
+
 
 
 <!--
