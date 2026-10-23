@@ -1,4 +1,7 @@
 ## Hi there 👋
+## - I’m currently studying Informatics
+## -Fun fact: I love Re:Zero
+
 
 <!--
 **dipargu/dipargu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
