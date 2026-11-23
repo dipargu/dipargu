@@ -5,5 +5,4 @@
 - Working with Linux, Windows Server, networking, PC hardware, Python, and web development.
 - Long-term goal: software and computer engineering.
 
-I want to become a computer engineer 
 
